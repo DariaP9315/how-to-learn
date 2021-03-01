@@ -30,7 +30,7 @@
 .header__title {
   width: 730px;
   font-size: 102px;
-  font-weight: 900;
+  font-weight: bold;
   line-height: 96px;
   align-self: center;
 }
