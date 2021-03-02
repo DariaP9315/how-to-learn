@@ -197,7 +197,6 @@ line-height: 1.2;}
   font-weight: bold;
   text-align: center;
   width: 648px;
-  margin-bottom:70px;
   position: relative;
   z-index: 2;
 }
@@ -208,6 +207,7 @@ line-height: 1.2;}
   font-weight: normal;
   align-self: center;
   position: relative;
+  margin-top: 70px;
   margin: 0;
   padding: 0;
   z-index: 2;
