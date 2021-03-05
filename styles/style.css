@@ -16,7 +16,7 @@
   position: relative;
 }
 
-.logo__header {
+.logo_place_header {
   width:183px;
   height: 32px;
   top: 30px;
@@ -296,6 +296,8 @@
 }
 
 .kaufman__triangle {
+  background-image: url('../images/kaufman-triangle.svg');
+  background-size: cover;
   width: 877px;
   height: 877px;
   position: absolute;
@@ -337,7 +339,7 @@
   margin-bottom: 18px;
 }
 
-.footer__logo {
+.logo_place_footer {
   width: 183px;
   height: 35px;
 }
