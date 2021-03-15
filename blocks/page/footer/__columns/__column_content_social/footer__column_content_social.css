@@ -1,0 +1,6 @@
+.footer__column_content_social {
+  display: flex;
+  justify-content: start;
+  margin-bottom: 16px;
+  flex-direction: column;
+}
